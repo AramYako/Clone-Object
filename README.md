@@ -2,7 +2,7 @@
 
 Code and document samles for Code-Object project. 
 This project supports two different types of clones in .Net. 
-Deep clone and shallow clone
+Deep clone and shallow clone.
 
 Call the generic method DeepClone<T>(T source) to make a deep clone of your object  
 
